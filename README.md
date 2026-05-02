@@ -180,7 +180,7 @@ MilkTeaPOS/
 ## 👤 Author
 
 **John Vincent T. Canciller**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME]https://github.com/meowzea)
+- GitHub: [@YOUR_USERNAME](https://github.com/meowzea)
 - LinkedIn: [john-vincent-canciller](https://linkedin.com/in/john-vincent-canciller)
 - Email: jvcanciller@gmail.com
 
