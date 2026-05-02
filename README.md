@@ -173,14 +173,14 @@ MilkTeaPOS/
 
 ## 📸 Screenshots
 
-> _Screenshots coming soon — add your own by replacing this section!_
+> _Screenshots coming soon
 
 ---
 
 ## 👤 Author
 
 **John Vincent T. Canciller**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME]https://github.com/meowzea)
 - LinkedIn: [john-vincent-canciller](https://linkedin.com/in/john-vincent-canciller)
 - Email: jvcanciller@gmail.com
 
